@@ -1,4 +1,4 @@
-# Automated IP Access Management with Python
+# Automated IP Access Management with Python.
 
 Algorithm to Update Restricted Access Lists in a Healthcare Environment.
 
